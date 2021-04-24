@@ -1,0 +1,21 @@
+/* Declaring custom vairables here */
+:root{
+    --mainText:black;
+    --secondaryText:#4b5156;
+    --mainColor:#eaeaea;
+    --secondaryColor:white;
+    --borderColor:#c1c1c1;
+}
+
+html, body {
+    padding:0;
+    margin:0;
+}
+
+h1,h2,h3,h4,h5,h6,strong{
+
+}
+
+p, li, span, label, input, textarea{
+
+}
